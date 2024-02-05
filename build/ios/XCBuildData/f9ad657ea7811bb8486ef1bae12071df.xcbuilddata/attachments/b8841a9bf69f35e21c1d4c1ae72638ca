@@ -1,0 +1,38 @@
+{
+  "" : {
+    "diagnostics" : "/Users/juhyang/Desktop/MyApplication2/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/x86_64/iosApp-master.dia",
+    "emit-module-dependencies" : "/Users/juhyang/Desktop/MyApplication2/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/x86_64/iosApp-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/juhyang/Desktop/MyApplication2/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/x86_64/iosApp-master-emit-module.dia",
+    "swift-dependencies" : "/Users/juhyang/Desktop/MyApplication2/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/x86_64/iosApp-master.swiftdeps"
+  },
+  "/Users/juhyang/Desktop/MyApplication2/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/juhyang/Desktop/MyApplication2/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/juhyang/Desktop/MyApplication2/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/juhyang/Desktop/MyApplication2/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/juhyang/Desktop/MyApplication2/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/juhyang/Desktop/MyApplication2/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/juhyang/Desktop/MyApplication2/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/juhyang/Desktop/MyApplication2/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/juhyang/Desktop/MyApplication2/iosApp/iosApp/ContentView.swift" : {
+    "const-values" : "/Users/juhyang/Desktop/MyApplication2/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/x86_64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/juhyang/Desktop/MyApplication2/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/x86_64/ContentView.d",
+    "diagnostics" : "/Users/juhyang/Desktop/MyApplication2/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/x86_64/ContentView.dia",
+    "index-unit-output-path" : "/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/x86_64/ContentView.o",
+    "llvm-bc" : "/Users/juhyang/Desktop/MyApplication2/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/x86_64/ContentView.bc",
+    "object" : "/Users/juhyang/Desktop/MyApplication2/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/x86_64/ContentView.o",
+    "swift-dependencies" : "/Users/juhyang/Desktop/MyApplication2/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/x86_64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/juhyang/Desktop/MyApplication2/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/x86_64/ContentView~partial.swiftmodule"
+  },
+  "/Users/juhyang/Desktop/MyApplication2/iosApp/iosApp/iOSApp.swift" : {
+    "const-values" : "/Users/juhyang/Desktop/MyApplication2/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/x86_64/iOSApp.swiftconstvalues",
+    "dependencies" : "/Users/juhyang/Desktop/MyApplication2/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/x86_64/iOSApp.d",
+    "diagnostics" : "/Users/juhyang/Desktop/MyApplication2/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/x86_64/iOSApp.dia",
+    "index-unit-output-path" : "/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/x86_64/iOSApp.o",
+    "llvm-bc" : "/Users/juhyang/Desktop/MyApplication2/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/x86_64/iOSApp.bc",
+    "object" : "/Users/juhyang/Desktop/MyApplication2/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/x86_64/iOSApp.o",
+    "swift-dependencies" : "/Users/juhyang/Desktop/MyApplication2/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/x86_64/iOSApp.swiftdeps",
+    "swiftmodule" : "/Users/juhyang/Desktop/MyApplication2/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/x86_64/iOSApp~partial.swiftmodule"
+  }
+}

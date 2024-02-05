@@ -1,0 +1,4 @@
+com.example.myapplication2.android.test.androidApp-androidTest-0 /Users/juhyang/Desktop/MyApplication2/androidApp/build/generated/res/resValues/androidTest/debug
+com.example.myapplication2.android.test.androidApp-mergeDebugAndroidTestResources-1 /Users/juhyang/Desktop/MyApplication2/androidApp/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.myapplication2.android.test.androidApp-mergeDebugAndroidTestResources-2 /Users/juhyang/Desktop/MyApplication2/androidApp/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.myapplication2.android.test.androidApp-merged_res-3 /Users/juhyang/Desktop/MyApplication2/androidApp/build/intermediates/merged_res/debugAndroidTest
